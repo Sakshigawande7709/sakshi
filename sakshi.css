@@ -1,0 +1,9 @@
+.border{
+    border:2px double black;
+    height: 400px;
+    width: 300px;
+}
+.img{
+    height: 75px;
+    width: 300px;
+}
